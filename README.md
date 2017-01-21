@@ -1,2 +1,3 @@
 # Keras-tutorial
-Follow tutorial from elitedatascience
+Walk through the tutorial by elitedatascience
+Extra: Compare other algorithms with CNN (e.g. Feed Forward NN, Random Forest,Logistic Regression)
